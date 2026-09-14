@@ -71,3 +71,4 @@ int minutesPerLesson = 45;
 int Lessons = totalMinutes / minutesPerLesson;
 int endLesson = totalMinutes % minutesPerLesson;
 Console.WriteLine($"{totalMinutes} минут = {Lessons} полных занятий + {endLesson} минут.");
+Console.WriteLine();
