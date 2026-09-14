@@ -59,7 +59,7 @@ int money = scolarship - month;
 const semester = 4;
 int total = money * semester;
 Console.WriteLine(total);
- 
+ GCNotificationStatus
 const int semester = 4;
 int total1 = money * semester;
 Console.WriteLine(total1);
